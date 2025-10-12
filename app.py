@@ -1,10 +1,3 @@
-"""
-Discord Music Bot (Python)
-
-Commands:
-!join, !leave, !play <url>, !skip, !stop, !pause, !resume, !queue, !volume <0-100>, !volup, !voldown
-"""
-
 import asyncio
 import os
 from dataclasses import dataclass
